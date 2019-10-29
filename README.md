@@ -10,7 +10,7 @@
 ### 유니티 개념들
 #### 씬(Scene)
 #### 게임 오브젝트(GameObject)
- - Hierarchy
+ - Hierarchy 창
  - 기본 게임 오브젝트
  - Empty Gameobject
  - 부모 자식
@@ -21,9 +21,9 @@
  - Start()
  - Update()
  - Drag and Drop으로 초기화
- - Debug.Log()
- - 큐브를 키로 이동시키기
- - Frame과 Time.deltatime
+ - Debug.Log("메시지")
+ - 큐브를 화살표 키로 이동시키기
+ - Frame과 Time.deltaTime
 ---
 ## 2주
 ### 큐브 이동시키기
@@ -40,7 +40,7 @@
  - Velocity를 줘보자
  - 총알을 prefab화하기
  - Instantiate
- - Time.deltatime을 이용해서 Timer 만들기
+ - Time.deltaTime을 이용해서 Timer 만들기
  - 3초마다 총알 발사!
 #### 총알이 충돌했을 때
  - OnTriggerEnter(Collider)     : 물리적인 충돌하기
@@ -63,7 +63,6 @@
  - 사운드
  - 앱 빌드하기
  - 스마트폰 입력 처리하기
-
 ---
 # 나중에 ...
 ## UI
@@ -72,7 +71,7 @@
 ### 2. 메뉴창
  - Scene 설명
  - Camera 설명 및 조작
- - Button lick 했을 때. 함수 실행!
+ - Button Click 했을 때. 함수 실행!
  - 타이틀 화면: press to start 구현
  - UI 숨겨보기/켜보기
  - 사망 화면
