@@ -1,16 +1,29 @@
 # CIEN 프로그래밍 스터디 자료들
 ---
 ## 1주
+### 유니티 적응하기
  - 유니티 소개
  - 유니티 설치
  - 화면 구성
  - 조작 방법
- - 간단한 실습
- - 씬(Scene)
- - 게임 오브젝트(GameObject)
- - 컴포넌트(Component)
- - 간단한 실습
- - 스크립트(Script)
+ - 책상 만들기
+### 유니티 개념들
+#### 씬(Scene)
+#### 게임 오브젝트(GameObject)
+ - Hierarchy
+ - 기본 게임 오브젝트
+ - Empty Gameobject
+ - 부모 자식
+ - rotating
+#### 컴포넌트(Component)
+ - 돌 굴리기
+#### 스크립트(Script)
+ - start()
+ - update()
+ - drag and drop으로 초기화
+ - Debug.Log()
+ - 큐브를 키로 이동시키기
+ - frame과 Time.deltatime
 ---
 ## 2주
 ### 큐브 이동시키기
@@ -59,11 +72,11 @@
 ### 2. 메뉴창
  - Scene 설명
  - Camera 설명 및 조작
- - button click 했을 때. 함수 실행!
+ - Button Click 했을 때. 함수 실행!
  - 타이틀 화면: press to start 구현
  - UI 숨겨보기/켜보기
  - 사망 화면
  - Scene 이동하기
 ### 간단한 실습 4: 타이머 만들어서 상단에 띄우기
- 1. Text바꾸는 법 알려준다
+ 1. Text 바꾸는 법 알려준다
  2. 시킨다
