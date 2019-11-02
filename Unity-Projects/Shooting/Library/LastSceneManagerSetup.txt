@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/FindTarget.unity
-  isLoaded: 1
-  isActive: 1
