@@ -13,7 +13,7 @@
  - Hierarchy 창
  - 기본 게임 오브젝트
  - Empty Gameobject
- - 부모 자식
+    - 부모 자식
  - Rotating
 #### 컴포넌트(Component)
  - 돌 굴리기
