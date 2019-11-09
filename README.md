@@ -1,6 +1,6 @@
 # CIEN 프로그래밍 스터디 자료들
 ---
-## 1주
+## 1주: ./Unity-Projects/Week1 유니티 프로젝트 참고
 ### 유니티 적응하기
  - 유니티 소개
  - 유니티 설치
@@ -25,7 +25,7 @@
  - 큐브를 화살표 키로 이동시키기
  - Frame과 Time.deltaTime
 ---
-## 2주
+## 2주: ./Unity-Projects/Week2 유니티 프로젝트 참고
 ### 큐브 이동시키기
  - Transform 
  - Rigidbody-Velocity
