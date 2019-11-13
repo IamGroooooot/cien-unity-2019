@@ -27,4 +27,3 @@ public class FindWithTag : MonoBehaviour
         myTarget.GetComponent<Rigidbody>().AddForce(-2, 0, 0);
     }
 }
-

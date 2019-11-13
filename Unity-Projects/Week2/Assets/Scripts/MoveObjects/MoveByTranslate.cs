@@ -16,5 +16,3 @@ public class MoveByTranslate : MonoBehaviour
         transform.Translate(Time.deltaTime,0,0);
     }
 }
-
-
