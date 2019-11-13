@@ -2,13 +2,22 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Unity-Projects/Week[0-9]/[Ll]ibrary/
+Unity-Projects/Week[0-9]/[Tt]emp/
+Unity-Projects/Week[0-9]/[Oo]bj/
+Unity-Projects/Week[0-9]/[Bb]uild/
+Unity-Projects/Week[0-9]/[Bb]uilds/
+Unity-Projects/Week[0-9]/[Ll]ogs/
+Unity-Projects/Week[0-9]/[Mm]emoryCaptures/
+#
+Unity-Projects/SimpleGame/[Ll]ibrary/
+Unity-Projects/SimpleGame/[Tt]emp/
+Unity-Projects/SimpleGame/[Oo]bj/
+Unity-Projects/SimpleGame/[Bb]uild/
+Unity-Projects/SimpleGame/[Bb]uilds/
+Unity-Projects/SimpleGame/[Ll]ogs/
+Unity-Projects/SimpleGame/[Mm]emoryCaptures/
+
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
